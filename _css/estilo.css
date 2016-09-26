@@ -1,0 +1,105 @@
+span.foco {
+    font-weight: bold;
+    color: #7e050c;
+}
+
+.lateral_space{
+	width:20px;
+}
+
+.centralizado {
+	margin: 0 auto;
+  	width: 600px;  
+  	padding: 20px;  
+}
+
+.body_decor {
+    background: url("waves.jpg") no-repeat top center fixed;
+    background-size: cover;
+}
+
+
+.text {
+		margin: 20% 0% 0% 10%;
+		display: inline-block;
+		font-size: 240%;
+		color:#2E5FBC;
+		font-family: 'Architects Daughter', cursive;
+}
+
+.date{
+	font-size: 240%;
+	text-align: center;
+	color:#2E5FBC;
+	font-family: 'Architects Daughter', cursive;
+}
+
+.link{	
+		font-size: 240%;
+		color:#2E5FBC;
+		font-family: 'Architects Daughter', cursive;
+		text-decoration:underline;
+}
+
+.logo {
+	width: 50%;
+    height: auto;
+    float: right;    
+	vertical-align: middle;
+}
+
+.bible_text{
+	font-family: 'Dancing Script', cursive;
+	text-align: center;
+	font-size: 350%;
+	color:#0080ff;
+}
+
+.number_text{
+	font-family: 'Architects Daughter', cursive;
+	text-align: center;
+	font-size: 300%;
+	color:#ff0000;
+}
+
+h2{
+	text-align: center;
+}
+
+.space{
+    margin-top: 100px;
+}
+
+.inner_space{
+    margin-top: 20px;
+}
+
+.text-center .img-responsive {
+    margin: 0 auto;
+}
+
+#pesquisafsm-caixa {
+	background: #eee;
+	padding:10px;
+	border:0 none;
+}
+
+#pesquisafsm-botao {
+	border: 1px solid #222;
+	color: #eee;
+	background: url("cz4sguf.png") no-repeat left #4591fa;
+	margin-left: -3px;
+	color:#fff;
+	font: 'trebuchet ms', trebuchet;
+	padding:10px 10px 10px 22px;
+	border:0 none;
+	font-weight:bold;
+	border-top-right-radius: 7px;
+	border-bottom-right-radius: 7px;
+	width: 35px;
+	height: 34px;
+}
+#pesquisafsm-botao:hover {
+	cursor: pointer;
+	background:  url(("cz4sguf.png") no-repeat left #2375E6;
+}
